@@ -1,4 +1,4 @@
-# Analyzing borrowers’ risk of defaulting
+# Loan defaulting risk analysis
 
 In this project I will analyze the risk that a customer of a bank will default on a loan. The report will assist the loans devision of the bank in creating the credit scores of new potential customers, which are used to evaluate a borrower's ability to repay loans.
 
